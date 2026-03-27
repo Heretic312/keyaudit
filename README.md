@@ -51,4 +51,5 @@ python3 log_analysis.py
 ## Visualization of Keystrokes
 - Here's a sample bar chart showing keystrokes per application:
 
-![Keystrokes per Window] (images/keystrokes_20260327_142648.png)
+![Keystrokes per Window] <img width="3000" height="1800" alt="keystrokes_20260327_142648" src="https://github.com/user-attachments/assets/8d2fbd8c-8c08-45fb-b4f6-45f199c71be7" />
+
