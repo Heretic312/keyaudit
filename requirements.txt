@@ -1,0 +1,7 @@
+pynput==1.8.1
+pandas==2.1.0
+matplotlib==3.8.0
+
+(Use pip install -r requirements.txt to install all at once.)
+
+(For Debian prepend python3 to dependencies ex. python3-pandas to install with apt)

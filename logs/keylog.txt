@@ -1,0 +1,125 @@
+2026-03-27 13:15:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:15:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | h
+2026-03-27 13:15:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | i
+2026-03-27 13:15:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:15:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | i
+2026-03-27 13:15:06 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | [BACKSPACE]
+2026-03-27 13:15:06 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:15:07 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | i
+2026-03-27 13:15:07 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:15:07 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:15:07 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | a
+2026-03-27 13:15:07 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:15:07 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:15:08 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:15:08 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:15:08 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:15:09 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | 
+
+2026-03-27 13:15:11 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | [ESC]
+2026-03-27 13:16:52 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:16:52 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | h
+2026-03-27 13:16:52 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | i
+2026-03-27 13:16:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:16:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:16:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | i
+2026-03-27 13:16:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:16:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:16:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | a
+2026-03-27 13:16:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:16:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:16:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:16:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:16:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:16:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:16:55 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | o
+2026-03-27 13:16:55 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | f
+2026-03-27 13:16:55 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:16:55 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:16:56 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | h
+2026-03-27 13:16:56 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:16:56 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:16:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:16:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | m
+2026-03-27 13:16:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:16:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | r
+2026-03-27 13:16:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | g
+2026-03-27 13:16:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:16:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | n
+2026-03-27 13:16:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | c
+2026-03-27 13:16:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | y
+2026-03-27 13:16:59 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | 
+
+2026-03-27 13:17:00 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | p
+2026-03-27 13:17:00 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | [BACKSPACE]
+2026-03-27 13:17:00 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | b
+2026-03-27 13:17:01 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | r
+2026-03-27 13:17:01 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | o
+2026-03-27 13:17:02 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | a
+2026-03-27 13:17:02 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | d
+2026-03-27 13:17:02 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | c
+2026-03-27 13:17:02 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | o
+2026-03-27 13:17:04 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | [BACKSPACE]
+2026-03-27 13:17:04 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | a
+2026-03-27 13:17:04 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:17:04 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:17:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:17:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:17:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | y
+2026-03-27 13:17:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:17:05 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:17:06 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:17:06 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | m
+2026-03-27 13:17:06 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | 
+
+2026-03-27 13:17:22 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | [ESC]
+2026-03-27 13:59:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:59:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | h
+2026-03-27 13:59:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | i
+2026-03-27 13:59:53 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:59:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:59:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | i
+2026-03-27 13:59:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:59:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:59:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | a
+2026-03-27 13:59:54 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:59:55 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:59:55 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:59:55 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 13:59:55 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:59:56 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | [ENTER]
+2026-03-27 13:59:56 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | o
+2026-03-27 13:59:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | f
+2026-03-27 13:59:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:59:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 13:59:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | h
+2026-03-27 13:59:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:59:57 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 13:59:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:59:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | m
+2026-03-27 13:59:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:59:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | r
+2026-03-27 13:59:58 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | g
+2026-03-27 13:59:59 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 13:59:59 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | n
+2026-03-27 13:59:59 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | c
+2026-03-27 13:59:59 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | y
+2026-03-27 14:00:00 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 14:00:01 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | b
+2026-03-27 14:00:01 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | r
+2026-03-27 14:00:01 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | o
+2026-03-27 14:00:01 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | a
+2026-03-27 14:00:01 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | d
+2026-03-27 14:00:02 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | c
+2026-03-27 14:00:02 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | a
+2026-03-27 14:00:02 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 14:00:02 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 14:00:03 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit |  
+2026-03-27 14:00:03 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 14:00:03 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | y
+2026-03-27 14:00:03 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | s
+2026-03-27 14:00:03 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | t
+2026-03-27 14:00:03 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | e
+2026-03-27 14:00:03 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | m
+2026-03-27 14:00:04 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | [ENTER]
+2026-03-27 14:00:07 | Shell - vbishop@dcudebiantest: ~/Downloads/keyaudit | [ESC]
